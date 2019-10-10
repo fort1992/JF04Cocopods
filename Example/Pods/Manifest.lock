@@ -1,0 +1,16 @@
+PODS:
+  - JF04 (0.1.0)
+
+DEPENDENCIES:
+  - JF04 (from `../`)
+
+EXTERNAL SOURCES:
+  JF04:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JF04: 3b46abdf3dddbbef9ab85fe9a4bfbbb79b910ec1
+
+PODFILE CHECKSUM: 7a01aff7abb8622b305692720b8965776a69fbbe
+
+COCOAPODS: 1.8.3

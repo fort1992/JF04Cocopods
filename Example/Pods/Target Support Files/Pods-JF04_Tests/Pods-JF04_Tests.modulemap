@@ -1,0 +1,6 @@
+framework module Pods_JF04_Tests {
+  umbrella header "Pods-JF04_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

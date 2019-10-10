@@ -1,0 +1,6 @@
+framework module JF04 {
+  umbrella header "JF04-umbrella.h"
+
+  export *
+  module * { export * }
+}
