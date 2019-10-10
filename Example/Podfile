@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JF04_Example' do
+  pod 'JF04', :path => '../'
+
+  target 'JF04_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
