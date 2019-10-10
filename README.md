@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JF04
 
 [![CI Status](https://img.shields.io/travis/fort1992@163.com/JF04.svg?style=flat)](https://travis-ci.org/fort1992@163.com/JF04)
@@ -27,3 +28,7 @@ fort1992@163.com, fort1992@136.com
 ## License
 
 JF04 is available under the MIT license. See the LICENSE file for more info.
+=======
+# JF04Cocopods
+测试组件化----------
+>>>>>>> e6beae7baa14732040781f727d1e33dc32741766
